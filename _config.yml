@@ -2,19 +2,19 @@
 
 # Setup
 title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+tagline:             'Variations on a theme'
+description:         'This is my playground for playing with the ed Jekyll theme and learning markdown  '
+url:                 ''
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Bryan Winston
+  url:               https://www.bryanwinston.org/
+  email:             bryan.winston@princeton.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: cyan
 
 # Permalinks
 permalink: pretty
